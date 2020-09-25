@@ -1,3 +1,5 @@
+##Skin lesion images classification with Convolutional Neural Networks and metadata information
+
 A Degree Thesis Submitted to the Faculty of Escola Tècnica d’Enginyeria de Telecomunicació de Barcelona of Universitat Politècnica de Catalunya.
 
 In partial fulfilment of the requirements for the degree in Telecommunications Technologies and Services Engineering.
